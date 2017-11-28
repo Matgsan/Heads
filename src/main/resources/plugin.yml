@@ -1,0 +1,7 @@
+name: Heads
+main: me.matgsan.heads.Main
+author: Matgsan
+version: 1.0
+commands:
+    animatedhead:
+    customhead:

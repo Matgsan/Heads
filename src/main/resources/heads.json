@@ -1,0 +1,2588 @@
+[
+  {
+    "name": "Nutella",
+    "permission": "head.nutella",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/515dcb2da02cf734829e1e273e3025617d8071516f953251b52545da8d3e8db8"
+  },
+  {
+    "name": "Geléia",
+    "permission": "head.geleia",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/ae8890874a3066f426e66e37438f45ab29a5bf2582db73cb4cff6954a578ef"
+  },
+  {
+    "name": "Geléia de Morango",
+    "permission": "head.geleiademorando",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/c0b8b5889ee1c6388dc6c2c5dbd70b6984aefe54319a095e64db7638097b821"
+  },
+  {
+    "name": "Pão",
+    "permission": "head.pao",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/f3487d457f9062d787a3e6ce1c4664bf7402ec67dd111256f19b38ce4f670"
+  },
+  {
+    "name": "Queijo",
+    "permission": "head.queijo",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/955d611a878e821231749b2965708cad942650672db09e26847a88e2fac2946"
+  },
+  {
+    "name": "Panquecas",
+    "permission": "head.panquecas",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/347f4f5a74c6691280cd80e7148b49b2ce17dcf64fd55368627f5d92a976a6a8"
+  },
+  {
+    "name": "Bolo",
+    "permission": "head.bolo",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/4561ded8d8385b913a091aef4783fccbfd3d38edd90b2e89b723b5a57434bf4"
+  },
+  {
+    "name": "Lata de sopa",
+    "permission": "head.latadesopa",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/fc91f9507b48b6f719714fbaba77cf68534aa5b728371b11866d55ff833a7f"
+  },
+  {
+    "name": "Copo de Leite",
+    "permission": "head.copodeleite",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/d7ab62fb77189352541dd95a8ee7e3631f7c1658f463f661680c283493d8a"
+  },
+  {
+    "name": "Muffin de Chocolate",
+    "permission": "head.muffingdechocolate",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/83794c736fc76e45706830325b95969466d86f8d7b28fce8edb2c75e2ab25c"
+  },
+  {
+    "name": "Muffin",
+    "permission": "head.muffin",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/343216b3ad2f4757a23c3a24cdaf8ce87bc421d4b6e8bc2ce642aa4803e99"
+  },
+  {
+    "name": "Oreo",
+    "permission": "head.oreo",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/dfd71e20fc50abf0de2ef7decfc01ce27ad51955759e072ceaab96355f594f0"
+  },
+  {
+    "name": "Cookie",
+    "permission": "head.cookie",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/b592cf9f42a5a8c995968493fdd1b11e0b69aad6473ff45384abe58b7fc7c7"
+  },
+  {
+    "name": "Bengala Doce",
+    "permission": "head.bengaladoce",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/4cc3f781c923a2887f14c1eea11050166966f2602578401f1451e6097b979df"
+  },
+  {
+    "name": "Barra de Chocolate",
+    "permission": "head.barradechocolate",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/819f948d17718adace5dd6e050c586229653fef645d7113ab94d17b639cc466"
+  },
+  {
+    "name": "Barra de Chocolate Branco",
+    "permission": "head.barradechocolatebranco",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/1ed55260dccc8da59338c75e41d544a2e1e7dbef31a69fe42c01b3298bf2d"
+  },
+  {
+    "name": "Cereja",
+    "permission": "head.cereja",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/d525707696bcd15a173056fa39296e80ff41168bb0add552f4523e2558a3119"
+  },
+  {
+    "name": "Melancia",
+    "permission": "head.melancia",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/7e96cedc8b5683bea01673936b6ea96fe948a2b6cb444dc29e1fcff4d2e2cf4"
+  },
+  {
+    "name": "Abóbora de Halloween",
+    "permission": "head.aboboradehalloween",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/fec415d702f3292a82f1471c8794cf63122d449d28ab886d4dc58fafd66"
+  },
+  {
+    "name": "Abóbora",
+    "permission": "head.abobora",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/d7d7ad2dcb57dfa9f023dbb99b698fc53075c3e9d654506139a647ac907fddc5"
+  },
+  {
+    "name": "Morango",
+    "permission": "head.morango",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/cbc826aaafb8dbf67881e68944414f13985064a3f8f044d8edfb4443e76ba"
+  },
+  {
+    "name": "COCO",
+    "permission": "head.coco",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/e9b0e969cf3fcced36b712350ffb46d8ed761fe5efb10e3b6a9795e6656da97"
+  },
+  {
+    "name": "Cenoura",
+    "permission": "head.cenoura",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/2159988443ee75d20c49c89abad5545bb4fb453a42b0388b5466355698bfa"
+  },
+  {
+    "name": "Cana de Açúcar",
+    "permission": "head.canadeacucar",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/33ca9d8b1d5f2c26547644034a55a4a2463e166f60feb0c7c5af3f724bae"
+  },
+  {
+    "name": "Chocolate Quente",
+    "permission": "head.chocolatequente",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/411511bdd55bcb82803c8039f1c155fd43062636e23d4d46c4d761c04d22c2"
+  },
+  {
+    "name": "Copo de Chá",
+    "permission": "head.copodecha",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/d8e94ddd769a5bea748376b4ec7383fd36d267894d7c3bee011e8e4f5fcd7"
+  },
+  {
+    "name": "Taco",
+    "permission": "head.taco",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/98ced74a22021a535f6bce21c8c632b273dc2d9552b71a38d57269b3538cf"
+  },
+  {
+    "name": "Batata Assada",
+    "permission": "head.batataassada",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/6f312a243aa4e69a5edc67e54e44f76eb84f66ec824089557a64bea71f6dc"
+  },
+  {
+    "name": "Bacon",
+    "permission": "head.bacon",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/e7ba22d5df21e821a6de4b8c9d373a3aa187d8ae74f288a82d2b61f272e5"
+  },
+  {
+    "name": "Batata Frita",
+    "permission": "head.batatafrita",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/a0eacac41a9eaf051376ef2f959701e1bbe1bf4aa6715adc34b6dc29a13ea9"
+  },
+  {
+    "name": "Hamburger",
+    "permission": "head.hamburguer",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/a6ef1c25f516f2e7d6f7667420e33adcf3cdf938cb37f9a41a8b35869f569b"
+  },
+  {
+    "name": "Pipoca",
+    "permission": "head.pipoca",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/1497b147cfae52205597f72e3c4ef52512e9677020e4b4fa7512c3c6acdd8c1"
+  },
+  {
+    "name": "Copo de Coca-Cola",
+    "permission": "head.copodecocacola",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/e9b41e9fe543f2375d0a97dd5922e4d65b8a523baf2265d42398d64c364ef95"
+  },
+  {
+    "name": "Nigiri de Salmão",
+    "permission": "head.nigiri",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/23bf8fca2af3592c5574b13e3bcf61e2fae829788535f0ddeaa7a2e45b6ba4"
+  },
+  {
+    "name": "Sushi",
+    "permission": "head.sushi",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/2e12f267953e76ae66a8dd025a3286aecbc64b4ad98eeb10b3c67a69aae15"
+  },
+  {
+    "name": "Bola de Arroz (Oniguiri)",
+    "permission": "head.boladearroz",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/69c2ddf2bd74a4655e8f0153a7453e67db2a21dbfac6756789481adbec483a"
+  },
+  {
+    "name": "Milho",
+    "permission": "head.milho",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/99dfac171e3c2029676ecf8d3a0fd9b7bb2857b95efdefc59e0f252576b5c68"
+  },
+  {
+    "name": "Sanduiche Misto (Presunto e Queijo)",
+    "permission": "head.sanduichemisto",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/baee84d19c85aff796c88abda21ec4c92c655e2d67b72e5e77b5aa5e99ed"
+  },
+  {
+    "name": "Cerveja",
+    "permission": "head.cerveja",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/4053e26867bb57538e9789137dbbb53774e18eda6fef51cb2edf426b37264"
+  },
+  {
+    "name": "Cerveja Medieval",
+    "permission": "head.cervejamedieval",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/229603d82963056be13522cfb7d4520c76ba687f396a0dab125e63b5dacea8"
+  },
+  {
+    "name": "Presunto",
+    "permission": "head.presunto",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/26336f5bb9975bf57e14db6615c1896c5c4b9c39aad17b17e4ee20b231cf6"
+  },
+  {
+    "name": "Sopa de Cogumelos",
+    "permission": "head.sopadecogumelos",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/cc14144f61c4e66b3c443660debc73cb2125d0140c51b5522c8a68b789414"
+  },
+  {
+    "name": "Rolo Doce",
+    "permission": "head.rolodoce",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/ec6eb8f15ba0d7993bf8708fa1dd86c1e8fde741a7dde9195f22891e02153"
+  },
+  {
+    "name": "Sorvete",
+    "permission": "head.sorvete",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/d8e3b53bc8fab19c6fd0f8abf13bf2303581d81691141f15973b4777e039f73"
+  },
+  {
+    "name": "Limão",
+    "permission": "head.limao",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/957fd56ca15978779324df519354b6639a8d9bc1192c7c3de925a329baef6c"
+  },
+  {
+    "name": "Ameixa",
+    "permission": "head.ameixa",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/5cc016f568d1433860d82fa3379d784cbbd52e56b55f78be7291f8618da38c8"
+  },
+  {
+    "name": "Salada",
+    "permission": "head.salada",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/1fe92e11a67b56935446a214caa3723d29e6db56c55fa8d43179a8a3176c6c1"
+  },
+  {
+    "name": "Donut Branco",
+    "permission": "head.donutbranco",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/d07b8c51acec2a508bb2fa652fb6e4a08b19485159a099f5982ccb88df1fe27e"
+  },
+  {
+    "name": "Donut Rosa",
+    "permission": "head.donutrosa",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/837c9b82b186656e9f6363a2a1c6a4b5b93cfa9ef4dad6f16b94ebb5e362678"
+  },
+  {
+    "name": "Donut de Chocolate",
+    "permission": "head.donutchocolate",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/59da54ff366e738e31de92919986abb4d50ca944fa9926af63758b7448f18"
+  },
+  {
+    "name": "Perú",
+    "permission": "head.peru",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/f06555706b641fdaf436c07663f923afc5ee72146f90195fb337b9de766588d"
+  },
+  {
+    "name": "Bento Box",
+    "permission": "head.bentobox",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/fe3052c535e14597a413ec32b32aafdd28686fdab6eed73030e1b94f7c38ff"
+  },
+  {
+    "name": "Prato de Cookies",
+    "permission": "head.pratodecookies",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/6368a69c94b45dd0a435de217c29cdbd433c7b447391faa33c241dc08271"
+  },
+  {
+    "name": "Marshmellow",
+    "permission": "head.marshmellow",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/b7855166984a725becfac1eab5cfbdcbee7e426466ddc3bee4c71cfd72cb5888"
+  },
+  {
+    "name": "Tigela de Arroz",
+    "permission": "head.tigeladearroz",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/c377e3d6c379fe34a2e6afabba32e7aecf77bcd31a1c3836ec354a935a7e9"
+  },
+  {
+    "name": "Tigela de Espaguete",
+    "permission": "head.tigeladeespaguete",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/347fe65eb745468e86873a1bda48a5a489fef91cc522d85e0364b55d53f867e"
+  },
+  {
+    "name": "Tijela de Miojo",
+    "permission": "head.tigelademiojo",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/e9485663e65264a3dc30472e6a6931446bed32c2e899905facf18b2919689c1"
+  },
+  {
+    "name": "Tomate",
+    "permission": "head.tomate",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/99172226d276070dc21b75ba25cc2aa5649da5cac745ba977695b59aebd"
+  },
+  {
+    "name": "Laranja",
+    "permission": "head.laranja",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/87b3d291d3b99bcd4c37a1839dc160d885ecd4e237b3aea1baf0adbb1775cd64"
+  },
+  {
+    "name": "Maça Verde",
+    "permission": "head.macaverde",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/c4c05dd5d7a92889d8d22d4df0f1a1fe2bee3eddf192f78fc44e02e14dbf629"
+  },
+  {
+    "name": "Alface",
+    "permission": "head.alface",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/477dd842c975d8fb03b1add66db8377a18ba987052161f22591e6a4ede7f5"
+  },
+  {
+    "name": "Uvas Roxas",
+    "permission": "head.uvasroxas",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/ee5935863c53a996f5334e90f55de538e83ffc5f6b0b8e83a4dc4f6e6b1208"
+  },
+  {
+    "name": "Uvas Verdes",
+    "permission": "head.uvasverdes",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/8cdcf38a8438ed3a547f8d5b47e0801559c595f0e26c45656a76b5bf8a56f"
+  },
+  {
+    "name": "Sanduiche",
+    "permission": "head.sanduiche",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/9496589fb5c1f69387b7fb17d92312058ff6e8ebeb3eb89e4f73e78196113b"
+  },
+  {
+    "name": "Torta de Cereja",
+    "permission": "head.tortadecereja",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/d53c1e87e537f1ab2774ddafb83439b336f4a777b47ad82bcb30d5fcbdf9bc"
+  },
+  {
+    "name": "Torta",
+    "permission": "head.torta",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/6483912fb2a30d73361c03844611775b1c33218b3a56bded6ae792c2e439881"
+  },
+  {
+    "name": "Bolo de Chocolate",
+    "permission": "head.bolodechocolate",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/9119fca4f28a755d37fbe5dcf6d8c3ef50fe394c1a7850bc7e2b71ee78303c4c"
+  },
+  {
+    "name": "Pote de Mel",
+    "permission": "head.potedemel",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/18c2cddeed624a538f349d8c7035fef918e6d7a1781631eac51ec182712a54da"
+  },
+  {
+    "name": "Pepsi",
+    "permission": "head.pepsi",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/2bbae6df99dc82beaf49d064df74a1bbc15e8e376533276912c8c8fe59cb4f4"
+  },
+  {
+    "name": "Coca Cola",
+    "permission": "head.cocacola",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/93b01fb2f6ba47c9d7638491f37cd8582a937731186df4d1eccd59b65bf37"
+  },
+  {
+    "name": "Sprite",
+    "permission": "head.sprite",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/b8a34d86a7bb13d45afdc50d3dce5eed95e1844fbdee0cca753c6d3346e339e"
+  },
+  {
+    "name": "Fanta",
+    "permission": "head.fanta",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/2be9505a38a14d1512c7892fc44d3d7ce6338b1bf0f9123721b121a14b095a3"
+  },
+  {
+    "name": "Mountain Dew",
+    "permission": "head.mountaindew",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/86e5bf657ab897ad5e54867a4c3c2e71b2da24e7518b2f834488da76f62f5216"
+  },
+  {
+    "name": "FRAMBOESA",
+    "permission": "head.framboesa",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/b12ef1b486e97e4cb124aa7629aceb91edc51d63338c91a012885493c5d9c"
+  },
+  {
+    "name": "Maça",
+    "permission": "head.maca",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/e2b35bda5ebdf135f4e71ce49726fbec5739f0adedf01c519e2aea7f51951ea2"
+  },
+  {
+    "name": "Copo Plastico",
+    "permission": "head.copoplastico",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/9179ce4849723434e84747ec85fbbfb1121456c8aeb2e9171fb8328921d45"
+  },
+  {
+    "name": "Dr. ZoidBerg",
+    "permission": "head.drzoidberg",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/8238c114b27ca9ffd6e7754fec582c7e369928283b2d7fce149eaa312bd2"
+  },
+  {
+    "name": "Ewok",
+    "permission": "head.ewok",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/f33eca699384f3d1fc6cd1d1ed5a8b8c34798c6568eb1844e53cbdc3598"
+  },
+  {
+    "name": "Freddy Fazbear",
+    "permission": "head.freddyfazbear",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/ed3f3e114c631cadc8a5606021b4b4f9e15fa6ec89d3eeeb1cec825cf29b883"
+  },
+  {
+    "name": "Bonnie",
+    "permission": "head.bonnie",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/2f3faca3d13e6ec373d7a28dab8959fc2b7ccce5fb617b1c563aadbb03932"
+  },
+  {
+    "name": "Foxy",
+    "permission": "head.foxy",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/b2812aaa954773f2ada5a2f77e32ba2f7d8d1f5d1bb4a30f86279642d3d8bb8"
+  },
+  {
+    "name": "Marionette",
+    "permission": "head.marionette",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/7ecae8fdd9233b82dc2f7a9445450b4a52f1c383a2417991c82ed71bf795ac1"
+  },
+  {
+    "name": "Zelda",
+    "permission": "head.zelda",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/fc96a14dc1cb943b8ff3c92aacb0102c2389eedef50d36b714d0db98b27a"
+  },
+  {
+    "name": "Link",
+    "permission": "head.link",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/daa05966dbb39f780e7ea63a29560d8eb48e0c2497a818a89564a5a14a33ef"
+  },
+  {
+    "name": "Stitch",
+    "permission": "head.stitch",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/16a8cbe9b5b656345ae034befead26b93677febc88725490416ce7babbd59f3d"
+  },
+  {
+    "name": "Groot",
+    "permission": "head.groot",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/23c71a85eeb3cd6449159675aa89278a2a1d587b4d0b768174fc2e15c9be4d"
+  },
+  {
+    "name": "Star Lord",
+    "permission": "head.starlord",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/b5b81e1747b3040801069768b7cee85a32fe0ea578d7a488783c7778e72d7e7"
+  },
+  {
+    "name": "StormTrooper",
+    "permission": "head.stormtrooper",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/e32c336da84a7ba610c881aa995f9664f19dc2c40bd11449e20c6c3a3e751"
+  },
+  {
+    "name": "CloneTrooper",
+    "permission": "head.clonetrooper",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/77e0d72cf441cce94cce3cb3bccec6fec5f8ac2d79bc963d8b74d54a2062"
+  },
+  {
+    "name": "R2D2",
+    "permission": "head.r2d2",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/7cebc97798c2e360551cab3dd5db6d53497fe63040941c9ac491a59cbf383a7a"
+  },
+  {
+    "name": "Darth Vader",
+    "permission": "head.darthvader",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/c1c3e1f224b446ccac6a6cc3cd9891019a122f99691c3907992a3af99a21b0"
+  },
+  {
+    "name": "Patrick",
+    "permission": "head.patrick",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/b971b927729c6eace16593b33a986d61943d62f6961de6db599a818b2af32"
+  },
+  {
+    "name": "Bob Esponja",
+    "permission": "head.bobesponja",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/5e71ef39af4e33ebcf69a4be6379543c5015aaec76bab6fc3d862a75dfe3c47"
+  },
+  {
+    "name": "Rei do Gelo",
+    "permission": "head.reidogelo",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/c2cee62b99d804dddedcfe7a71a10c2d7c8c1616aacb91db82e47a22dd314"
+  },
+  {
+    "name": "Jake",
+    "permission": "head.jake",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/53d1877be95a9edb86df2256f23958324c2ec19ef94277ce2fb5c3301841dc"
+  },
+  {
+    "name": "Finn",
+    "permission": "head.finn",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/b51d5966ea472c43ef52a5f657ff859203bea28fe4bedce5a1cd789b3ac4ba"
+  },
+  {
+    "name": "Sonic",
+    "permission": "head.sonic",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/c5f5c9ff94c0dd5cbb1e271a817e6e9c552e3928b159519dd226efabdd"
+  },
+  {
+    "name": "Meta Knight",
+    "permission": "head.metaknight",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/146449373682381a65cae65a2253d8b36b293776412c5df8dea4d964393af7a"
+  },
+  {
+    "name": "Ness",
+    "permission": "head.ness",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/19577a9bda64f716a169222299add56fc746cfd85560b3971d9762a48366"
+  },
+  {
+    "name": "Wario",
+    "permission": "head.wario",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/ca8b3a1af2d8fc37729f6f63fdba5d5e209758ded4b2fcf6add4b85bf67edd72"
+  },
+  {
+    "name": "Fox McCloud",
+    "permission": "head.foxmccloud",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/71be29750ddec80994bda79653e21ed70d5b2eb793da51d5a87b89bf67dcb96"
+  },
+  {
+    "name": "Princesa Peach",
+    "permission": "head.princesapeach",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/feb9331acdf3cb76bd3a56ddd59b8b1398a54952f534551df81422abbe94f"
+  },
+  {
+    "name": "Bowser",
+    "permission": "head.bowser",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/e860610ed30785e6229e82e2897b42fdabb1df6296d3731fac2744e56a9eb9"
+  },
+  {
+    "name": "Mario",
+    "permission": "head.mario",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/6f7eb75e5542cc4937aaad5bb8657393eaf0265006eac1dc96691f32e16437"
+  },
+  {
+    "name": "Luigi",
+    "permission": "head.luigi",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/ff1533871e49ddab8f1ca82edb1153a5e2ed3764fd1ce029bf829f4b3caac3"
+  },
+  {
+    "name": "Yoshi",
+    "permission": "head.yoshi",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/671ebc11bdd151410da70d931259c4e969528e6f5889e9c4bb2dd763b9eafd"
+  },
+  {
+    "name": "Gombaa",
+    "permission": "head.gombaa",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/aecf94f4bcbbf6eadcb25aa3d069aa678ebdb5241eb82e8e26889caf3275570"
+  },
+  {
+    "name": "Ash Ketchum",
+    "permission": "head.ashketchum",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/dc23586f51fc98b55450bb9a37a066caac2765c1d471cb891094a8ec032befb"
+  },
+  {
+    "name": "Samus",
+    "permission": "head.samus",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/3a8d314cc31ca8adf2ee99be39b32732be6d6be8510ba8ed4af1b8fab2ef0f9"
+  },
+  {
+    "name": "Ganondorf",
+    "permission": "head.ganondorf",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/3b785436914d448886f876be0f487cf4c332d696f66570a84e86f8fa67f"
+  },
+  {
+    "name": "Toy Bonnie",
+    "permission": "head.toybonnie",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/a75dbe970d547b2561f8b658130359176246f89e74a4abdc6834155c8c4c81a"
+  },
+  {
+    "name": "Toy Freddy",
+    "permission": "head.toyfreddy",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/dc3f2e93d03294d4aa931e9967f2d5bcd2af909bfe38ee81d1bda7f682fdc3"
+  },
+  {
+    "name": "Toy Chica",
+    "permission": "head.toychica",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/cc37668d5eae18ba766cd5c8ebc75c48de1ba44cbe489d829a5eca8691bf556"
+  },
+  {
+    "name": "Toy Mangle",
+    "permission": "head.toymangle",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/4e1159e1aad239597dea98629e094654015c6ddb9ced2c9b0f3bc12d9e63af8"
+  },
+  {
+    "name": "Menino Balão",
+    "permission": "head.meninobalao",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/8a48dd4ad18afb22fe572852706b8019a78d8f159486e742ff761c638d202f5b"
+  },
+  {
+    "name": "Vegetta",
+    "permission": "head.vegetta",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/4fc1d88be2528168f67da16a19b14f04e1e4963a99dfcb4e49d984a351313c"
+  },
+  {
+    "name": "Mater Chief (Halo)",
+    "permission": "head.masterchief",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/2548844c48b082df57cb4aadc6b23a4af49e3be028f216c62ef539ab84ccbc0"
+  },
+  {
+    "name": "Bender",
+    "permission": "head.bender",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/6e23d607e92e729af9664bfa26be958b4b2f9f3e012eed833f9a35ea4c4b0"
+  },
+  {
+    "name": "Wheatley",
+    "permission": "head.wheatley",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/6684f4a6ed142865db0938e487676849a54d64378e2e9e7f713b9b1e9d041"
+  },
+  {
+    "name": "Wilson",
+    "permission": "head.wilson",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/e98d4fe5176a3accdebb1c3fb0b26cf3a181fffc160ea52a028cb41f34cfe1"
+  },
+  {
+    "name": "Batman",
+    "permission": "head.batman",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/f256f71735ef458581c9dacf394185eed9b33cb6ec5cd594a57153a8b566560"
+  },
+  {
+    "name": "Coringa",
+    "permission": "head.coringa",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/af4f6825ef6d5e46d794697d1bf86d144bf6fb3da4e55f7cf55271f637eaa7"
+  },
+  {
+    "name": "Capitão América",
+    "permission": "head.capitaoamerica",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/7ec527713d34c1167eed0cd1e969dbfad5d44a752154ccaf64c1c7ab6bc3f3f"
+  },
+  {
+    "name": "DeadPool",
+    "permission": "head.deadpool",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/dc15c31639e93f2bb274cf29d244a8a2906e80ab8bd2c0121c7fd1e2624d53"
+  },
+  {
+    "name": "Doge",
+    "permission": "head.doge",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/b9afb2e5f0b977c4c683e017d2b47fcd1488ab56397766e5b380405a139260"
+  },
+  {
+    "name": "Blaze",
+    "permission": "head.blaze",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0"
+  },
+  {
+    "name": "Aranha das Cavernas",
+    "permission": "head.aranhadascavernas",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/41645dfd77d09923107b3496e94eeb5c30329f97efc96ed76e226e98224"
+  },
+  {
+    "name": "Ghast",
+    "permission": "head.ghast",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/8b6a72138d69fbbd2fea3fa251cabd87152e4f1c97e5f986bf685571db3cc0"
+  },
+  {
+    "name": "PIG Zombie",
+    "permission": "head.pigzombie",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/74e9c6e98582ffd8ff8feb3322cd1849c43fb16b158abb11ca7b42eda7743eb"
+  },
+  {
+    "name": "Enderman",
+    "permission": "head.enderman",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/7a59bb0a7a32965b3d90d8eafa899d1835f424509eadd4e6b709ada50b9cf"
+  },
+  {
+    "name": "Magma Cube",
+    "permission": "head.magmacube",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429"
+  },
+  {
+    "name": "Slime",
+    "permission": "head.slime",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/16ad20fc2d579be250d3db659c832da2b478a73a698b7ea10d18c9162e4d9b5"
+  },
+  {
+    "name": "Aranha",
+    "permission": "head.aranha",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1"
+  },
+  {
+    "name": "Galinha",
+    "permission": "head.galinha",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/1638469a599ceef7207537603248a9ab11ff591fd378bea4735b346a7fae893"
+  },
+  {
+    "name": "Porco",
+    "permission": "head.porco",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4"
+  },
+  {
+    "name": "Ovelha",
+    "permission": "head.ovelha",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70"
+  },
+  {
+    "name": "Vaca",
+    "permission": "head.vaca",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/5d6c6eda942f7f5f71c3161c7306f4aed307d82895f9d2b07ab4525718edc5"
+  },
+  {
+    "name": "Polvo",
+    "permission": "head.polvo",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac"
+  },
+  {
+    "name": "Villager",
+    "permission": "head.villager",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
+  },
+  {
+    "name": "Golem",
+    "permission": "head.golem",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714"
+  },
+  {
+    "name": "Herobrine",
+    "permission": "head.herobrine",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/98b7ca3c7d314a61abed8fc18d797fc30b6efc8445425c4e250997e52e6cb"
+  },
+  {
+    "name": "Vaca de Cogumelo",
+    "permission": "head.coguvaca",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/d0bc61b9757a7b83e03cd2507a2157913c2cf016e7c096a4d6cf1fe1b8db"
+  },
+  {
+    "name": "Ocelot",
+    "permission": "head.ocelot",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1"
+  },
+  {
+    "name": "Cavalo",
+    "permission": "head.cavalo",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/61902898308730c4747299cb5a5da9c25838b1d059fe46fc36896fee662729"
+  },
+  {
+    "name": "Guardian",
+    "permission": "head.guardian",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/932c24524c82ab3b3e57c2052c533f13dd8c0beb8bdd06369bb2554da86c123"
+  },
+  {
+    "name": "Macaco",
+    "permission": "head.macaco",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/3429ca9c6a2e8bb162757f543adb62ef58f665d4e0dfcce5daf58d28fd9dfb"
+  },
+  {
+    "name": "Urso Polar",
+    "permission": "head.ursobolar",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/d46d23f04846369fa2a3702c10f759101af7bfe8419966429533cd81a11d2b"
+  },
+  {
+    "name": "Pinguin",
+    "permission": "head.pinguin",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/d3c57facbb3a4db7fd55b5c0dc7d19c19cb0813c748ccc9710c714727551f5b9"
+  },
+  {
+    "name": "Morsa",
+    "permission": "head.morsta",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/d7baedaf9ad95474eb1be58924445dfc77bbdc252cc1c81644cf7154c441"
+  },
+  {
+    "name": "Tigre",
+    "permission": "head.tigre",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/b6b96bbc8ad9bae0e254d35fdfb1db48e822ed97cf5f739d3e9545dd6ce"
+  },
+  {
+    "name": "Panda",
+    "permission": "head.panda",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/d188c980aacfa94cf33088512b1b9517ba826b154d4cafc262aff6977be8a"
+  },
+  {
+    "name": "Gato",
+    "permission": "head.gato",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/65c95c1f2a50b37d6126f76e4618a4cc79279a8c844372054dc3b22ea1ce27"
+  },
+  {
+    "name": "Lobo Raiva",
+    "permission": "head.loboraiva",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/e95cbb4f75ea87617f2f713c6d49dac3209ba1bd4b9369654b1459ea15317"
+  },
+  {
+    "name": "Coelho",
+    "permission": "head.coelho",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/dc7a317ec5c1ed7788f89e7f1a6af3d2eeb92d1e9879c05343c57f9d863de130"
+  },
+  {
+    "name": "Koala",
+    "permission": "head.koala",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/ca35eb10b94e888427fb23c783082658ceb81f3cf5d0aad25d7d41a194b26"
+  },
+  {
+    "name": "Dragão Chines",
+    "permission": "head.dragaochines",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/91641d038eb3862b1e022c5e0588d96366da1c944ee5e6ee13e0f5dd7b427b"
+  },
+  {
+    "name": "Villager Morto",
+    "permission": "head.villagermorto",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/c7e575cff11014a5acadf33ee488568cc89e43193511ca74efc83eebb76f4"
+  },
+  {
+    "name": "Baiacu",
+    "permission": "head.baiacu",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/a9559388993fe782f67bd58d98c4df56bcd430edcb2f66ef5777a73c27de3"
+  },
+  {
+    "name": "Wither",
+    "permission": "head.wither",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/cdf74e323ed41436965f5c57ddf2815d5332fe999e68fbb9d6cf5c8bd4139f"
+  },
+  {
+    "name": "Boneco de Neve",
+    "permission": "head.bonecodeneve",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/1fdfd1f7538c040258be7a91446da89ed845cc5ef728eb5e690543378fcf4"
+  },
+  {
+    "name": "Peixe Palhaço",
+    "permission": "head.peixepalhaco",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/36d149e4d499929672e2768949e6477959c21e65254613b327b538df1e4df"
+  },
+  {
+    "name": "Pássaro",
+    "permission": "head.passaro",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/b9627370fedbd0bae7bae6d6f8583555763789c1bd93fa639cfa3dfd48e34850"
+  },
+  {
+    "name": "Abelha",
+    "permission": "head.abelha",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/947322f831e3c168cfbd3e28fe925144b261e79eb39c771349fac55a8126473"
+  },
+  {
+    "name": "Dragão do Ender",
+    "permission": "head.dragaodoender",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/74ecc040785e54663e855ef0486da72154d69bb4b7424b7381ccf95b095a"
+  },
+  {
+    "name": "Caranguejo",
+    "permission": "head.caranguejo",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/185e6834a4bf26a6526f7cac4f6eaa9f7fa77db8c14353a81582b5f699"
+  },
+  {
+    "name": "Peixe",
+    "permission": "head.peixe",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/6f99b580d45a784e7a964e7d3b1f97cece74911173bd21c1d7c56acdc385ed5"
+  },
+  {
+    "name": "Salmão",
+    "permission": "head.salmao",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/adfc57d09059e4799fa92c15e28512bcfaa1315577fe3a27aed389e4f752289a"
+  },
+  {
+    "name": "Tartaruga",
+    "permission": "head.tartaruga",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/12e548408ab75d7df8e6d5d2446d90b6ec62aa4f7feb7930d1ee71eefddf6189"
+  },
+  {
+    "name": "Gaivota",
+    "permission": "head.gaivota",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/c3bde43111f69a7fda6ec6faf2263c827961f390d7c6163ed1231035d1b0b9"
+  },
+  {
+    "name": "Furão",
+    "permission": "head.furao",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/236edf7de9adca72308a94d1c38c358acc82918fe8fced25d474820f4cb784"
+  },
+  {
+    "name": "Elefante",
+    "permission": "head.elefante",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514"
+  },
+  {
+    "name": "Furby",
+    "permission": "head.furby",
+    "category": "MOBS",
+    "texture": "http://textures.minecraft.net/texture/7bff527562889e16a544f2f996fba3d9541d0aacf81462bffc9fb5cad8aedd5"
+  },
+  {
+    "name": "Bola de Praia",
+    "permission": "head.boladepraia",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/5a5ab05ea254c32e3c48f3fdcf9fd9d77d3cba04e6b5ec2e68b3cbdcfac3fd"
+  },
+  {
+    "name": "Bola de Futebol",
+    "permission": "head.boladefutebol",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/8e4a70b7bbcd7a8c322d522520491a27ea6b83d60ecf961d2b4efbbf9f605d"
+  },
+  {
+    "name": "Bola de Basquete",
+    "permission": "head.boladebasquete",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/edf84715a64dc45586f7a6079f8e49a9477c0fe96589b4cfd71cba32254ac8"
+  },
+  {
+    "name": "Bowlingball",
+    "permission": "head.boladeboliche",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/6c82e21a9320953d78daee85477de3bb82d5dfa6b19494d37733265d2d030a8"
+  },
+  {
+    "name": "Tabuleiro de Xadrez",
+    "permission": "head.tabuleirodexadrez",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/94094effee4ba2ab1c2fc6c8ed1c4690fba19c86617e9227db1f58d8dd5d"
+  },
+  {
+    "name": "Tabuleira de Damas",
+    "permission": "head.tabuleirodedamas",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/f870a65992c2dd8ad738b98d6d3596e45a2dd14efbace4b21122aeaff777f5"
+  },
+  {
+    "name": "PokéBola",
+    "permission": "head.pokebola",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/d43d4b7ac24a1d650ddf73bd140f49fc12d2736fc14a8dc25c0f3f29d85f8f"
+  },
+  {
+    "name": "Dado Branco",
+    "permission": "head.dadobranco",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/797955462e4e576664499ac4a1c572f6143f19ad2d6194776198f8d136fdb2"
+  },
+  {
+    "name": "Dado Vermelho",
+    "permission": "head.dadovermelho",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/5131de8e951fdd7b9a3d239d7cc3aa3e8655a336b999b9edbb4fb329cbd87"
+  },
+  {
+    "name": "Dado Preto",
+    "permission": "head.dadopreto",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/915f7c313bca9c2f958e68ab14ab393867d67503affff8f20cb13fbe917fd31"
+  },
+  {
+    "name": "Super Pokébola",
+    "permission": "head.superpokebola",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/ecfaf610275f433a34e5317573ce1f9a0f667ce10cdf1d06c9eba5d9cb57047"
+  },
+  {
+    "name": "Ultra Ball",
+    "permission": "head.ultraball",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/3d85c96efaefef11a1a35b117ca2f231c696e4e693b73a1bae77221607011e"
+  },
+  {
+    "name": "Master Ball",
+    "permission": "head.masterball",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/1879e64fd2e2d15d1b7e47ae40fa528fc72086a312d6a6ed3f7e552af9d5"
+  },
+  {
+    "name": "Cubo Mágico Solucionado",
+    "permission": "head.cubomagicosolucionado",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/8f1a277beb9e4faa6e7e356c74786e966155736a6858bf5bb5ad29df5bab61a1"
+  },
+  {
+    "name": "Cubo Mágico Embaralhado",
+    "permission": "head.cubomagicoembaralhado",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/5d86e7bd28c146f71514c782cac055860d1f372b4a9be3fe65cfe1104733ba"
+  },
+  {
+    "name": "PokéBola Safari",
+    "permission": "head.pokebolasafari",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/72eac5f499e312165364f1af152660cd3f18d94e2ed55b27dafe8cf842a794f1"
+  },
+  {
+    "name": "Warppipe",
+    "permission": "head.premierball",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/61954456197fdec22f480ac53e71c6a68a1a8627c6080df57db83dfc3466f"
+  },
+  {
+    "name": "Bloco de Ilusão",
+    "permission": "head.blocodeilusao",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/cc2c59fcd92625ec4d578159a5fd5bd4247e382d4947284cf50f999c84116c0"
+  },
+  {
+    "name": "Bloco de Ilusão ",
+    "permission": "head.blocodeilusaocolorido",
+    "category": "CHARACTERS",
+    "texture": "http://textures.minecraft.net/texture/b462ddfa553ce78683be477b8d8654f3dfc3aa2969808478c987ab88c376a0"
+  },
+  {
+    "name": "Azul Céu",
+    "permission": "head.azulceu",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/c1482b755858657fb51b7d3fbf4cd8c090c05e35bd8cdba98b19499d7833acb2"
+  },
+  {
+    "name": "Azul Céu Claro",
+    "permission": "head.azulceuclaro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/489ce89526fc12624678f305493aa65da8a1b360546a505d118eb1fad775"
+  },
+  {
+    "name": "Azul Bebê",
+    "permission": "head.azulbebe",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/7d31d21cb54294ee3a2056137d123b576f78bfc4878cd8144cd51e1931c39b5"
+  },
+  {
+    "name": "Verde Claro",
+    "permission": "head.verdeclaro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/361e5b333c2a3868bb6a58b6674a2639323815738e77e053977419af3f77"
+  },
+  {
+    "name": "Verde",
+    "permission": "head.verde",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/36f69f7b7538b41dc3439f3658abbd59facca366f190bcf1d6d0a026c8f96"
+  },
+  {
+    "name": "Verde Grama",
+    "permission": "head.verdegrama",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/cad01592ca44189f8abad0c2efa3cae6aafae76daaa7ea46655cc1293489ff"
+  },
+  {
+    "name": "Verde Médio",
+    "permission": "head.verdemedio",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/185fc97c7df24a6aa9c0ac89fcb22b81700f599f45c32c7e3178b444172df"
+  },
+  {
+    "name": "Verde Escuro",
+    "permission": "head.verdeescuro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/1cf3e422b322b1e9245b4b368433045c7b43c909e5dd6c792e4b6beda54303c"
+  },
+  {
+    "name": "Amarelo Escuro",
+    "permission": "head.amareloescuro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/d45b44fd19d72fb3d6e189c4978b1ca687dbd6580b18ddd8aa710edffa5"
+  },
+  {
+    "name": "Amarelo",
+    "permission": "head.amarelo",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/14c4141c1edf3f7e41236bd658c5bc7b5aa7abf7e2a852b647258818acd70d8"
+  },
+  {
+    "name": "Laranja Claro",
+    "permission": "head.laranjaclaro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/d3cdb16abb1751d1a481ed87b57db3b883e9961da2f9d485a2986487e2"
+  },
+  {
+    "name": "Laranja",
+    "permission": "head.laranjacor",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/fea590b681589fb9b0e8664ee945b41eb3851faf66aaf48525fba169c34270"
+  },
+  {
+    "name": "Vermelho Salmão",
+    "permission": "head.vermelhosalmao",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/4bac77520b9eee65068ef1cd8abeadb013b4de3953fd29ac68e90e4866227"
+  },
+  {
+    "name": "Vermelho Claro",
+    "permission": "head.vermelhoclaro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/97c1f1ead4d531caa4a5b0d69edbce29af789a2550e5ddbd23775be05e2df2c4"
+  },
+  {
+    "name": "Vermelho",
+    "permission": "head.vermelho",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/3f46c31d6ee6ea619f72e785232cb048ab270462db0cb1454514436251c1a"
+  },
+  {
+    "name": "Vermelho Escuro",
+    "permission": "head.vermelhoescuro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/51014e4f41d7729928f215555da2eaf158ce83d9e0c9961bef5eb7613d37e"
+  },
+  {
+    "name": "Azul Claro",
+    "permission": "head.azulclaro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/3b19dc4d467882dbca1b5c37465f0cfc70ff1f829ecf4a865796b8e5c2809a"
+  },
+  {
+    "name": "Azul Ciano",
+    "permission": "head.azulciano",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/bc35f73098d5f5b492af87d9c57fd8daa1c82cf7f9a7eb9c384981bd76dd9"
+  },
+  {
+    "name": "Azul Pouco Escuro",
+    "permission": "head.azulpoucoescuro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/b839e381d9fedab6f8b59396a2764238dceb2f7eea856dc6fc44767da382f1"
+  },
+  {
+    "name": "Azul",
+    "permission": "head.azul",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/c96540ce762125e398ca53d4cd9b668396d0467e128b30da5aa62be9ce060"
+  },
+  {
+    "name": "Azul Ciano Escuro",
+    "permission": "head.azulcianoescuro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/b784c152bfc3e2e313ef23fc46d44fce41e4adad9421bac2da3894511cc03b"
+  },
+  {
+    "name": "Azul Escuro",
+    "permission": "head.azulescuro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/12306a98787e526ce973bd56124e645a2e2329d563dcfa68a1be65767f29b5"
+  },
+  {
+    "name": "Roxo",
+    "permission": "head.roxo",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/e9352bcabfc27edb44ceb51b04786542f26a299a0529475346186ee94738f"
+  },
+  {
+    "name": "Rosa",
+    "permission": "head.rosa",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/855654b3f1bfb2cdf0f4b52d6360a03d31ddafc710f8afaea99fba667e482df"
+  },
+  {
+    "name": "Rosa (Choque)",
+    "permission": "head.rosachoque",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/607326d31858ea57e7bc55f3e75e6c85b34ff4bfd28088f94f11eb8e0d1cf"
+  },
+  {
+    "name": "Magenta",
+    "permission": "head.magenta",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/9133fa52dd74d711e53747da963b8adecf92db946be113b56c38b3dc270eeb3"
+  },
+  {
+    "name": "CREME",
+    "permission": "head.creme",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/bf76294011cbdcd2e92941dafe6b3726dff02c3e1f84dfa57c6abab6fc33ce6"
+  },
+  {
+    "name": "Mocha",
+    "permission": "head.mocha",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/bad5983dcabc931ab6a49d2fb8879ebc5295cb5ba2f278e3c8a3da7bc8b478"
+  },
+  {
+    "name": "MARROM",
+    "permission": "head.marrom",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/4574a467737295bd9ddc82545a1a4e146a943d05ecc821f9cc6a543ffe9934a"
+  },
+  {
+    "name": "Branco",
+    "permission": "head.branco",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/e5a770e7e44b3a1e6c3b83a97ff6997b1f5b26550e9d7aa5d5021a0c2b6ee"
+  },
+  {
+    "name": "Cinza Claro",
+    "permission": "head.cinzaclaro",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/31c45a59550143a44ed4e87ce2955e4a13e94cdfd4c64dee881dfb48dd92e"
+  },
+  {
+    "name": "Cinza",
+    "permission": "head.cinza",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/f2f085c6b3cb228e5ba81df562c4786762f3c257127e9725c77b7fd301d37"
+  },
+  {
+    "name": "Preto",
+    "permission": "head.preto",
+    "category": "COLORS",
+    "texture": "http://textures.minecraft.net/texture/9ddebbb062f6a385a91ca05f18f5c0acbe33e2d06ee9e7416cef6ee43dfe2fb"
+  },
+  {
+    "name": "Relógio",
+    "permission": "head.relogio",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/2de4e2783f85a391221dd91656ba688e7e42d16f6abbfbcfad9ca53617fca6"
+  },
+  {
+    "name": "Relógio Dourado",
+    "permission": "head.relogiodourado",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/6fe8cff75f7d433260af1ecb2f773b4bc381d951de4e2eb661423779a590e72b"
+  },
+  {
+    "name": "Relógio Antigo",
+    "permission": "head.relogioantigo",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/78472a2dcc239b4a483ac44c1dbf8fdba0fca1d253eb643fa0bd93af83a373"
+  },
+  {
+    "name": "GameCube",
+    "permission": "head.gamecube",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/e063a0ebb2d8010273b6c45b64e84d83b1e43e2ca5dfb2a6fd838c3f88827d"
+  },
+  {
+    "name": "Câmera de Segurança",
+    "permission": "head.cameradeseguranca",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/2f159a1cbe173d927392fa65fcfe78553d81aa5dc29495b9fbbade362f8bf9"
+  },
+  {
+    "name": "Câmera",
+    "permission": "head.camera",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/ea7d2a7fbb4d37b4d53fe87757128e5ef66ec23d7ff4fe9944546dbc8ce777"
+  },
+  {
+    "name": "Caixa de Som",
+    "permission": "head.caixadesom",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/ff7becf1718e9a6096ee5f9cb7abeb6cfd9488c44a3116407c92ec33ad7d8521"
+  },
+  {
+    "name": "Lanterna",
+    "permission": "head.lanterna",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/59e9c9246f1ba5a41e53efa68b2bd56a70da308f393487dcf6fe756799b3c7"
+  },
+  {
+    "name": "Micro-Ondas",
+    "permission": "head.microondas",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/a76fa636c54e36085fe2fa46dc966215c15722bb764a2eee84cfe8476caf71"
+  },
+  {
+    "name": "Computador",
+    "permission": "head.computador",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/8ae52ae8c98ac19fd07637a469ffa256ab0b3b10ece6243186188ba38df154"
+  },
+  {
+    "name": "Monitor",
+    "permission": "head.monitor",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/6d6c65b44c34b1acc2ccb346752397125f0d9ffa0ab3c50a99d1db3b74c63"
+  },
+  {
+    "name": "Telefone",
+    "permission": "head.telefone",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/82442bbf7171b5cafca217c9ba44ce27647225df76cda9689d61a9f1c0a5f176"
+  },
+  {
+    "name": "Câmera Antiga",
+    "permission": "head.cameraantiga",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/d3a0feb626e567e479576f4ff543e16e9b36a7304891b2f3293eaa8b68735a4"
+  },
+  {
+    "name": "Lamparina (ON)",
+    "permission": "head.lamparinaon",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/7cc217a9b9e3ce3cd0484c7e8ce49d1cf741281bdda5a4d6cb821f378752718"
+  },
+  {
+    "name": "LAMPARINA (OFF)",
+    "permission": "head.lamparinaoff",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/d2c81b435dc22d29d4778ffd22feb846a68b648dd1af5de818b517f0574d"
+  },
+  {
+    "name": "Aquário",
+    "permission": "head.aquario",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/8d19c68461666aacd7628e34a1e2ad39fe4f2bde32e231963ef3b35533"
+  },
+  {
+    "name": "Instragam",
+    "permission": "head.instagram",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/25b3f2cfa0739c4e828316f39f90b05bc1f4ed27b1e35888511f558d4675"
+  },
+  {
+    "name": "Sirene Vermelha",
+    "permission": "head.sirenevermelha",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/a6b221be89678d5856eaa68667f98683175bcce6741f82c62e73f044166367"
+  },
+  {
+    "name": "Sirene Azul",
+    "permission": "head.sireneazul",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/d4bf643cfb41ee5f9e618de9789cc6d85c2e953f44567e4e2d3b19a79e843"
+  },
+  {
+    "name": "TV Quebrada",
+    "permission": "head.tvquebrada",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/45e9bd425fbd39a94c30bf5aeb301db186713322761fc82a76fb6168793490"
+  },
+  {
+    "name": "Sirene de Policia",
+    "permission": "head.sirenedepolicia",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/ca35afa58631609791ffe25f3a879dfbffea1151f87bff62c5423ed6136ee0"
+  },
+  {
+    "name": "C4",
+    "permission": "head.c4",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/8da332abde333a15a6c6fcfeca83f0159ea94b68e8f274bafc04892b6dbfc"
+  },
+  {
+    "name": "Torradeira",
+    "permission": "head.torradeira",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/9ed6ff4d0f2fd91847a836e476acf8d4afbadf4d841e0cd48746f7347cf42"
+  },
+  {
+    "name": "Kaypad",
+    "permission": "head.keypad",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/ba10da526e5111cfb6e3ebd47693e162dd52d41a2182028daa7c2b19aa3143"
+  },
+  {
+    "name": "Liquidificador",
+    "permission": "head.liquidificador",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/98636123b1a3755abd8aef6d85b2a85bf10f486edefdd1a3cef7679d825"
+  },
+  {
+    "name": "Pote de Ouro",
+    "permission": "head.potedeouro",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/aa976f6dfcf188995a327e55ce34c60e6dcd1ff63e68dd1fc3ad75d2d1bf"
+  },
+  {
+    "name": "Balde de Lava",
+    "permission": "head.baldedelava",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/8d5427a83540a08a3fa2e655c2964a07243514584a71ec35d6b9e184dfbe318"
+  },
+  {
+    "name": "Balde de Leite",
+    "permission": "head.baldedeleite",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/f58c975661c3e94fc35115648158e3ee9f80df74a4399e4d31ca5dbbcaf29b6"
+  },
+  {
+    "name": "Balde Vazio",
+    "permission": "head.baldevazio",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/21ea825150b06e65e2ceb593afe342dca56dda12bf6c9696fb82f90dcd423ab"
+  },
+  {
+    "name": "Balde de Agua",
+    "permission": "head.baldedeagua",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/49f1f07e2b1c32bb64a128e529f3af1e5286e518544edf8cbaa6c4065b476b"
+  },
+  {
+    "name": "Caixa de Correio",
+    "permission": "head.caixadecorreio",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/70d227b3326596cb92e681a445dc99d4c6965f11a8086aee62ddf09b775b"
+  },
+  {
+    "name": "Capacete de Astronauta",
+    "permission": "head.capaceteastronauta",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/302e22f6503c363df69bf9e9448fe89d2f05bae30534b8bb19d268f0989b96"
+  },
+  {
+    "name": "Capacete de Futebol Americano",
+    "permission": "head.capacetedefutebolamericano",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/4d7b62aca28445b8e11ea1750eeacd97932fa37ba744768573e8dc58a6af1"
+  },
+  {
+    "name": "Olho",
+    "permission": "head.olho",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/2cef87772afd85b468f4c7fb9571e31435ef765ad413fe460262150423e2021"
+  },
+  {
+    "name": "Pinha",
+    "permission": "head.pinha",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/1988ec65c51a85772c8d86d74ea8e0e572523bf8edc8cba5ad11952fbebe660"
+  },
+  {
+    "name": "Bola de Chão",
+    "permission": "head.boladecanhao",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/22523e15e9986355a1f851f43f750ee3f23c89ae123631da241f872ba7a781"
+  },
+  {
+    "name": "Alvo",
+    "permission": "head.alvo",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/86fcaefa19669d8be02cf5ba9a7f2cf6d27e636410496ffcfa62b03dceb9d378"
+  },
+  {
+    "name": "Cacto",
+    "permission": "head.cacto",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/38c9a730269ce1de3e9fa064afb370cbcd0766d729f3e29e4f320a433b098b5"
+  },
+  {
+    "name": "Facebook",
+    "permission": "head.facebook",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/deb46126904463f07ecfc972aaa37373a22359b5ba271821b689cd5367f75762"
+  },
+  {
+    "name": "Twitter",
+    "permission": "head.twitter",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/3685a0be743e9067de95cd8c6d1ba21ab21d37371b3d597211bb75e43279"
+  },
+  {
+    "name": "Youtube",
+    "permission": "head.youtube",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/b4353fd0f86314353876586075b9bdf0c484aab0331b872df11bd564fcb029ed"
+  },
+  {
+    "name": "Bola de Fogo",
+    "permission": "head.boladefogo",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/9c2e9d8395cacd9922869c15373cf7cb16da0a5ce5f3c632b19ceb3929c9a11"
+  },
+  {
+    "name": "Grill",
+    "permission": "head.grill",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/318e35ec4b4b4c1591c5177386de18797454298b7455982e3ae83bacced0f1a2"
+  },
+  {
+    "name": "Caveira",
+    "permission": "head.caveira",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/1ae3855f952cd4a03c148a946e3f812a5955ad35cbcb52627ea4acd47d3081"
+  },
+  {
+    "name": "???",
+    "permission": "head.faltadetextura",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/e9eb9da26cf2d3341397a7f4913ba3d37d1ad10eae30ab25fa39ceb84bc"
+  },
+  {
+    "name": "Reddit",
+    "permission": "head.reddit",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/4d9bd4b2fa8da8247a82c3d1fa246715f9b6d98c778374da6efc10c89cd64"
+  },
+  {
+    "name": "Cabeça de Diamante",
+    "permission": "head.cabecadediamante",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/10b8eb333622ae7de9b53b3602f41f63db9c2528b5be231ac96516611fb1a"
+  },
+  {
+    "name": "Cabeça de Ouro",
+    "permission": "head.cabecadeouro",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/f937e1c45bb8da29b2c564dd9a7da780dd2fe54468a5dfb4113b4ff658f043e1"
+  },
+  {
+    "name": "Cabeça de Esmeralda",
+    "permission": "head.cabecadeesmeralda",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/b5b656da666d2759e8195642142e119e6585852c6619e2ad79ae2ad181465"
+  },
+  {
+    "name": "Semente de Cacau",
+    "permission": "head.sementedecacau",
+    "category": "FOOD",
+    "texture": "http://textures.minecraft.net/texture/5083ec2b01dc0fee79aa32188d9429acc68ecf71408dca04aaab53ad8bea0"
+  },
+  {
+    "name": "Pack de Tochas",
+    "permission": "head.packdetochas",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/86793bac4a1f974142ef8916642710949d7e38f87aebd380742ccc374f1de1"
+  },
+  {
+    "name": "Skype",
+    "permission": "head.skype",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/2ec182da7d3c0a8acc3be9b77c29be47e08c20b050b13fd4c4c7d71f66273"
+  },
+  {
+    "name": "Minecart com TNT",
+    "permission": "head.minecarftcomtnt",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/c4d7fc8e3a959ade7d9cf663f1e82db7975543e288ab8d11eb2541888213526"
+  },
+  {
+    "name": "Minecart com Fornalha",
+    "permission": "head.minecartcomfornalha",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/e079abbafb981c795a9a2f82bab3fbd9f166b8c0dbf9a1751d769beac667b6"
+  },
+  {
+    "name": "Minecart com Baú",
+    "permission": "head.minecartcombau",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/4ced34211fed4010a8c85724a27fa5fb205d67684b3da517b6821279c6b65d3f"
+  },
+  {
+    "name": "Minecart com Bloco de Comando",
+    "permission": "head.minecraftcomcommandblock",
+    "category": "BLOCKS",
+    "texture": "http://textures.minecraft.net/texture/ba9053d2163d0f561145d33a513145d4ac1f8a458baa796be383e7525a05f45"
+  },
+  {
+    "name": "Assustado",
+    "permission": "head.assustado",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/636e26c44659e8148ed58aa79e4d60db595f426442116f81b5415c2446ed8"
+  },
+  {
+    "name": "Emote - Anjo",
+    "permission": "head.anjo",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/3e1debc73231f8ed4b69d5c3ac1b1f18f3656a8988e23f2e1bdbc4e85f6d46a"
+  },
+  {
+    "name": "Emote - Envergonhado",
+    "permission": "head.envergonhado",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/f720df911c052377065408db78a25c678f791eb944c063935ae86dbe51c71b"
+  },
+  {
+    "name": "Emote - Beijinho",
+    "permission": "head.beijinho",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/545bd18a2aaf469fad72e52cde6cfb02bfbaa5bfed2a8151277f779ebcdcec1"
+  },
+  {
+    "name": "Emote - Triste",
+    "permission": "head.triste",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/14968ac5af3146826fa2b0d4dd114fda197f8b28f4750553f3f88836a21fac9"
+  },
+  {
+    "name": "Emote - Legal",
+    "permission": "head.legal",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/868f4cef949f32e33ec5ae845f9c56983cbe13375a4dec46e5bbfb7dcb6"
+  },
+  {
+    "name": "Emote - Surpreso",
+    "permission": "head.surpreso",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/bc2b9b9ae622bd68adff7180f8206ec4494abbfa130e94a584ec692e8984ab2"
+  },
+  {
+    "name": "Emote - Morto",
+    "permission": "head.morto",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/b371e4e1cf6a1a36fdae27137fd9b8748e6169299925f9af2be301e54298c73"
+  },
+  {
+    "name": "Emote - Chorando",
+    "permission": "head.chorando",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/1f1b875de49c587e3b4023ce24d472ff27583a1f054f37e73a1154b5b5498"
+  },
+  {
+    "name": "Emote - Grande Sorriso",
+    "permission": "head.grandesorriso",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/5059d59eb4e59c31eecf9ece2f9cf3934e45c0ec476fc86bfaef8ea913ea710"
+  },
+  {
+    "name": "Emote - Piscadela",
+    "permission": "head.piscadela",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/f4ea2d6f939fefeff5d122e63dd26fa8a427df90b2928bc1fa89a8252a7e"
+  },
+  {
+    "name": "Emote - Derp",
+    "permission": "head.derp",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/3baabe724eae59c5d13f442c7dc5d2b1c6b70c2f83364a488ce5973ae80b4c3"
+  },
+  {
+    "name": "Emote - Bigode",
+    "permission": "head.bigode",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/3636f2724aa6aa4de7ac46c19f3c845fb14847a518c8f7e03d792c82effb1"
+  },
+  {
+    "name": "Emote - Grande Sorriso (Lingua)",
+    "permission": "head.grandesorrisocomlingua",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/7ffaccf17879b17891fc5ef66472cc066a85bfa31b6d786c32afee4796068d"
+  },
+  {
+    "name": "Emote - Sorriso",
+    "permission": "head.sorriso",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/52e98165deef4ed621953921c1ef817dc638af71c1934a4287b69d7a31f6b8"
+  },
+  {
+    "name": "Colméia",
+    "permission": "head.colmeia",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/20342dc9c2ad886acfe3ca2e987b7e28a87c774ca5f3d8cb2bfabe131cafe8"
+  },
+  {
+    "name": "País - Holanda",
+    "permission": "head.holanda",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/c23cf210edea396f2f5dfbced69848434f93404eefeabf54b23c073b090adf"
+  },
+  {
+    "name": "País - Noruega",
+    "permission": "head.noruega",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/e0596e165ec3f389b59cfdda93dd6e363e97d9c6456e7c2e123973fa6c5fda"
+  },
+  {
+    "name": "País - Suécia",
+    "permission": "head.suecia",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/e910904bff9c86f6ed47688e9429c26e8d9c5d5743bd3ebb8e6f5040be192998"
+  },
+  {
+    "name": "País - Egito",
+    "permission": "head.egito",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/826e742b32f0f8db59c07b1bcdde6f8a93f85c929e598c7e9273b9211f2ce78"
+  },
+  {
+    "name": "País - Chile",
+    "permission": "head.chile",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/ed1dddc665614c9f6487ba9c666da7579561589a494ef744aaf8f4f88a16"
+  },
+  {
+    "name": "País - Mónaco",
+    "permission": "head.monaco",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/5db2678ccaba7934412cb97ee16d416463a392574c5906352f18dea42895ee"
+  },
+  {
+    "name": "País - Canadá",
+    "permission": "head.canada",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/f241a697f6dfb1c57cda327baa6732a7828c398be4ebfdbd166c232bcae2b"
+  },
+  {
+    "name": "País - Estados Unidos da América",
+    "permission": "head.usa",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/7d15d566202ac0e76cd897759df5d01c11f991bd46c5c9a04357ea89ee75"
+  },
+  {
+    "name": "País - Bélgica",
+    "permission": "head.belgica",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/5c78aae42ef9ee9faa67b64bb974cea275ce702655d35f841b6017416ee1c393"
+  },
+  {
+    "name": "País - Itália",
+    "permission": "head.italia",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/a56c5cc17319a6c9ec847252e4d274552d97da95e1085072dba49d117cf3"
+  },
+  {
+    "name": "País - Inglaterra",
+    "permission": "head.inglaterra",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/bee5c850afbb7d8843265a146211ac9c615f733dcc5a8e2190e5c247dea32"
+  },
+  {
+    "name": "País - Roménia",
+    "permission": "head.romenia",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/84d380aa9d66a2a966eb1cfc17608f28fbfe3a75f6a18a8be544682586c41c4"
+  },
+  {
+    "name": "País - Alemanha",
+    "permission": "head.alemanha",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/5e7899b4806858697e283f084d9173fe487886453774626b24bd8cfecc77b3f"
+  },
+  {
+    "name": "País - Cingapura",
+    "permission": "head.cingapura",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/8b5ed11f797f3fc61eaf8dafb6bf3234d31b96ab7596bd2df722d2ef3473c27"
+  },
+  {
+    "name": "País - Coreia do Norte",
+    "permission": "head.coreiadonorte",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/1969d12662faebfaca6f4b0442fcb251fd60b61a9fcdceea2bdc21e025eb21"
+  },
+  {
+    "name": "País - França",
+    "permission": "head.franca",
+    "category": "SPECIALS",
+    "texture": "http://textures.minecraft.net/texture/ba25287d1140fb1741d4b6f7e65672f9e64fffe80ea7371c7f3ec5a6f04039"
+  },
+  {
+    "name": "Coroa",
+    "permission": "head.coroa",
+    "category": "MISC",
+    "texture": "http://textures.minecraft.net/texture/c2baf0c589a6b583511d83c268240842d3364774ec9f566d1fd4d349cf42fb"
+  },
+  {
+    "name": "Madeira - ?",
+    "permission": "head.madeirasetacima",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d48b768c623432dfb259fb3c3978e98dec111f79dbd6cd88f21155374b70b3c"
+  },
+  {
+    "name": "Madeira - ?",
+    "permission": "head.madeirasetabaixo",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/2dadd755d08537352bf7a93e3bb7dd4d733121d39f2fb67073cd471f561194dd"
+  },
+  {
+    "name": "Madeira - ?",
+    "permission": "head.madeirasetadireita",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/1b6f1a25b6bc199946472aedb370522584ff6f4e83221e5946bd2e41b5ca13b"
+  },
+  {
+    "name": "Madeira - ?",
+    "permission": "head.madeirasetaesquerda",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/3ebf907494a935e955bfcadab81beafb90fb9be49c7026ba97d798d5f1a23"
+  },
+  {
+    "name": "Madeira - ?",
+    "permission": "head.madeirainterrogacao",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/5163dafac1d91a8c91db576caac784336791a6e18d8f7f62778fc47bf146b6"
+  },
+  {
+    "name": "Madeira - !",
+    "permission": "head.madeiraexclamacao",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/6a53bdd1545531c9ebb9c6f895bc576012f61820e6f489885988a7e8709a3f48"
+  },
+  {
+    "name": "Madeira - .",
+    "permission": "head.madeiraponto",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/733aa24916c88696ee71db7ac8cd306ad73096b5b6ffd868e1c384b1d62cfb3c"
+  },
+  {
+    "name": "Madeira - /",
+    "permission": "head.madeirabarra",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/7f95d7c1bbf3afa285d8d96757bb5572259a3ae854f5389dc53207699d94fd8"
+  },
+  {
+    "name": "Madeira - A",
+    "permission": "head.madeiraa",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/a67d813ae7ffe5be951a4f41f2aa619a5e3894e85ea5d4986f84949c63d7672e"
+  },
+  {
+    "name": "Madeira - B",
+    "permission": "head.madeirab",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/50c1b584f13987b466139285b2f3f28df6787123d0b32283d8794e3374e23"
+  },
+  {
+    "name": "Madeira - C",
+    "permission": "head.madeirac",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/abe983ec478024ec6fd046fcdfa4842676939551b47350447c77c13af18e6f"
+  },
+  {
+    "name": "Madeira - D",
+    "permission": "head.madeirad",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/3193dc0d4c5e80ff9a8a05d2fcfe269539cb3927190bac19da2fce61d71"
+  },
+  {
+    "name": "Madeira - E",
+    "permission": "head.madeirae",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/dbb2737ecbf910efe3b267db7d4b327f360abc732c77bd0e4eff1d510cdef"
+  },
+  {
+    "name": "Madeira - F",
+    "permission": "head.madeiraf",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/b183bab50a3224024886f25251d24b6db93d73c2432559ff49e459b4cd6a"
+  },
+  {
+    "name": "Madeira - G",
+    "permission": "head.madeirag",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/1ca3f324beeefb6a0e2c5b3c46abc91ca91c14eba419fa4768ac3023dbb4b2"
+  },
+  {
+    "name": "Madeira - H",
+    "permission": "head.madeirah",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/31f3462a473549f1469f897f84a8d4119bc71d4a5d852e85c26b588a5c0c72f"
+  },
+  {
+    "name": "Madeira - I",
+    "permission": "head.madeirai",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/46178ad51fd52b19d0a3888710bd92068e933252aac6b13c76e7e6ea5d3226"
+  },
+  {
+    "name": "Madeira - J",
+    "permission": "head.madeiraj",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/3a79db9923867e69c1dbf17151e6f4ad92ce681bcedd3977eebbc44c206f49"
+  },
+  {
+    "name": "Madeira - K",
+    "permission": "head.madeirak",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/9461b38c8e45782ada59d16132a4222c193778e7d70c4542c9536376f37be42"
+  },
+  {
+    "name": "Madeira - L",
+    "permission": "head.madeiral",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/319f50b432d868ae358e16f62ec26f35437aeb9492bce1356c9aa6bb19a386"
+  },
+  {
+    "name": "Madeira - M",
+    "permission": "head.madeiram",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/49c45a24aaabf49e217c15483204848a73582aba7fae10ee2c57bdb76482f"
+  },
+  {
+    "name": "Madeira - N",
+    "permission": "head.madeiran",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/35b8b3d8c77dfb8fbd2495c842eac94fffa6f593bf15a2574d854dff3928"
+  },
+  {
+    "name": "Madeira - O",
+    "permission": "head.madeirao",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d11de1cadb2ade61149e5ded1bd885edf0df6259255b33b587a96f983b2a1"
+  },
+  {
+    "name": "Madeira - P",
+    "permission": "head.madeirap",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/a0a7989b5d6e621a121eedae6f476d35193c97c1a7cb8ecd43622a485dc2e912"
+  },
+  {
+    "name": "Madeira - Q",
+    "permission": "head.madeiraq",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/43609f1faf81ed49c5894ac14c94ba52989fda4e1d2a52fd945a55ed719ed4"
+  },
+  {
+    "name": "Madeira - R",
+    "permission": "head.madeirar",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/a5ced9931ace23afc351371379bf05c635ad186943bc136474e4e5156c4c37"
+  },
+  {
+    "name": "Madeira - S",
+    "permission": "head.madeiras",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/3e41c60572c533e93ca421228929e54d6c856529459249c25c32ba33a1b1517"
+  },
+  {
+    "name": "Madeira - T",
+    "permission": "head.madeirat",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/1562e8c1d66b21e459be9a24e5c027a34d269bdce4fbee2f7678d2d3ee4718"
+  },
+  {
+    "name": "Madeira - U",
+    "permission": "head.madeirau",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/607fbc339ff241ac3d6619bcb68253dfc3c98782baf3f1f4efdb954f9c26"
+  },
+  {
+    "name": "Madeira - V",
+    "permission": "head.madeirav",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/cc9a138638fedb534d79928876baba261c7a64ba79c424dcbafcc9bac7010b8"
+  },
+  {
+    "name": "Madeira - W",
+    "permission": "head.madeiraw",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/cc9a138638fedb534d79928876baba261c7a64ba79c424dcbafcc9bac7010b8"
+  },
+  {
+    "name": "Madeira - X",
+    "permission": "head.madeirax",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/5a6787ba32564e7c2f3a0ce64498ecbb23b89845e5a66b5cec7736f729ed37"
+  },
+  {
+    "name": "Madeira - Y",
+    "permission": "head.madeiray",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/c52fb388e33212a2478b5e15a96f27aca6c62ac719e1e5f87a1cf0de7b15e918"
+  },
+  {
+    "name": "Madeira - Z",
+    "permission": "head.madeiraz",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/90582b9b5d97974b11461d63eced85f438a3eef5dc3279f9c47e1e38ea54ae8d"
+  },
+  {
+    "name": "Madeira - 1",
+    "permission": "head.madeira1",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/71bc2bcfb2bd3759e6b1e86fc7a79585e1127dd357fc202893f9de241bc9e530"
+  },
+  {
+    "name": "Madeira - 2",
+    "permission": "head.madeira2",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/4cd9eeee883468881d83848a46bf3012485c23f75753b8fbe8487341419847"
+  },
+  {
+    "name": "Madeira - 3",
+    "permission": "head.madeira3",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/1d4eae13933860a6df5e8e955693b95a8c3b15c36b8b587532ac0996bc37e5"
+  },
+  {
+    "name": "Madeira - 4",
+    "permission": "head.madeira4",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d2e78fb22424232dc27b81fbcb47fd24c1acf76098753f2d9c28598287db5"
+  },
+  {
+    "name": "Madeira - 5",
+    "permission": "head.madeira5",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/6d57e3bc88a65730e31a14e3f41e038a5ecf0891a6c243643b8e5476ae2"
+  },
+  {
+    "name": "Madeira - 6",
+    "permission": "head.madeira6",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/334b36de7d679b8bbc725499adaef24dc518f5ae23e716981e1dcc6b2720ab"
+  },
+  {
+    "name": "Madeira - 7",
+    "permission": "head.madeira7",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/6db6eb25d1faabe30cf444dc633b5832475e38096b7e2402a3ec476dd7b9"
+  },
+  {
+    "name": "Madeira - 8",
+    "permission": "head.madeira8",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/59194973a3f17bda9978ed6273383997222774b454386c8319c04f1f4f74c2b5"
+  },
+  {
+    "name": "Madeira - 9",
+    "permission": "head.madeira9",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/e67caf7591b38e125a8017d58cfc6433bfaf84cd499d794f41d10bff2e5b840"
+  },
+  {
+    "name": "Madeira - 0",
+    "permission": "head.madeira0",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/0ebe7e5215169a699acc6cefa7b73fdb108db87bb6dae2849fbe24714b27"
+  },
+  {
+    "name": "Pedra - ?",
+    "permission": "head.pedrasetacima",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/58fe251a40e4167d35d081c27869ac151af96b6bd16dd2834d5dc7235f47791d"
+  },
+  {
+    "name": "Pedra - ?",
+    "permission": "head.pedrasetabaixo",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/9b7ce683d0868aa4378aeb60caa5ea80596bcffdab6b5af2d12595837a84853"
+  },
+  {
+    "name": "Pedra - ?",
+    "permission": "head.pedrasetadireita",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/f2f3a2dfce0c3dab7ee10db385e5229f1a39534a8ba2646178e37c4fa93b"
+  },
+  {
+    "name": "Pedra - ?",
+    "permission": "head.pedrasetaesquerda",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/bb0f6e8af46ac6faf88914191ab66f261d6726a7999c637cf2e4159fe1fc477"
+  },
+  {
+    "name": "Pedra - ?",
+    "permission": "head.pedrainterrogacao",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/3aab272840d790c2ed2be5c860289f95d88e316b65c456ff6a35180d2e5bff6"
+  },
+  {
+    "name": "Pedra - !",
+    "permission": "head.pedraexclamacao",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/6ff99ff279a2cf25deb4bd5b66c3576b824cc96c36781027af727ed3a4c1308e"
+  },
+  {
+    "name": "Pedra - .",
+    "permission": "head.pedraponto",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/3aab272840d790c2ed2be5c860289f95d88e316b65c456ff6a35180d2e5bff6"
+  },
+  {
+    "name": "Pedra - /",
+    "permission": "head.pedrabarra",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/2d593f0945cbb85a8e0be7d9a526010ee774810f2bc428cd4a23e4d232eff8"
+  },
+  {
+    "name": "Pedra - A",
+    "permission": "head.pedraa",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/2ac58b1a3b53b9481e317a1ea4fc5eed6bafca7a25e741a32e4e3c2841278c"
+  },
+  {
+    "name": "Pedra - B",
+    "permission": "head.pedrab",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d4c711571e7e214ee78dfe4ee0e1263b92516e418de8fc8f3257ae0901431"
+  },
+  {
+    "name": "Pedra - C",
+    "permission": "head.pedrac",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/fff5aabead6feafaaecf4422cdd7837cbb36b03c9841dd1b1d2d3edb7825e851"
+  },
+  {
+    "name": "Pedra - D",
+    "permission": "head.pedrad",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/893e622b581975792f7c119ec6f40a4f16e552bb98776b0c7ae2bdfd4154fe7"
+  },
+  {
+    "name": "Pedra - E",
+    "permission": "head.pedrae",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/a157d65b19921c760ff4910b3404455b9c2ee36afc202d8538baefec676953"
+  },
+  {
+    "name": "Pedra - F",
+    "permission": "head.pedraf",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/c54cf261b2cd6ab54b0c624f8f6ff565a7b63e28e3b50c6dbfb52b5f0d7cf9f"
+  },
+  {
+    "name": "Pedra - G",
+    "permission": "head.pedrag",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d3c9f8a74ca01ba8c54de1edc82e1fc07a83923e66574b6ffe606919240c6"
+  },
+  {
+    "name": "Pedra - H",
+    "permission": "head.pedrah",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/f8c58c509034617bf81ee0db9be0ba3e85ca15568163914c87669edb2fd7"
+  },
+  {
+    "name": "Pedra - I",
+    "permission": "head.pedrai",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/4246323c9fb319326ee2bf3f5b63ec3d99df76a12439bf0b4c3ab32d13fd9"
+  },
+  {
+    "name": "Pedra - J",
+    "permission": "head.pedraj",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/c58456cd9bb8a7e978591ae0cb26af1aadad4fa7a16725b295145e09bed8064"
+  },
+  {
+    "name": "Pedra - K",
+    "permission": "head.pedrak",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/af49fb708369e7bc2944ad706963fb6ac6ce6d4c67081ddadecfe5da51"
+  },
+  {
+    "name": "Pedra - L",
+    "permission": "head.pedral",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/8c84f75416e853a74f6c70fc7e1093d53961879955b433bd8c7c6d5a6df"
+  },
+  {
+    "name": "Pedra - M",
+    "permission": "head.pedram",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/31fde91b19b9309913724fea9e85311271c67bcb78578d461bf65d9613074"
+  },
+  {
+    "name": "Pedra - N",
+    "permission": "head.pedran",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/1c7c972e6785d6b0aceb779abdd7702d98341c24c2a71e702930eca58055"
+  },
+  {
+    "name": "Pedra - O",
+    "permission": "head.pedrao",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/8073bb44f9345f9bb31a679027e7939e461842a8c27486d7a6b842c39eb38c4e"
+  },
+  {
+    "name": "Pedra - P",
+    "permission": "head.pedrap",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/64b231a8d55870cfb5a9f4e65db06dd7f8e34282f1416f95878b19acc34ac95"
+  },
+  {
+    "name": "Pedra - Q",
+    "permission": "head.pedraq",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/ffedd6f9efdb156b86935699b2b4834df0f5d214513c01d38af3bd031cbcc92"
+  },
+  {
+    "name": "Pedra - R",
+    "permission": "head.pedrar",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/c03a1cd583cbbffde08f943e56ac3e3afafecaede834221a81e6db6c64667f7d"
+  },
+  {
+    "name": "Pedra - S",
+    "permission": "head.pedras",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/b6572e655725d78375a9817eb9ee8b37829ca1fea93b6095cc7aa19e5eac"
+  },
+  {
+    "name": "Pedra - T",
+    "permission": "head.pedrat",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/708c9ef3a3751e254e2af1ad8b5d668ccf5c6ec3ea2641877cba575807d39"
+  },
+  {
+    "name": "Pedra - U",
+    "permission": "head.pedrau",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/55a6e3ae5ae625923524838fac9fef5b42527f5027c9ca149e6c207792eb"
+  },
+  {
+    "name": "Pedra - V",
+    "permission": "head.pedrav",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/975121f7d9c68da0e5b6a96ac615298b12b2ee5bd19989436ee647879da5b"
+  },
+  {
+    "name": "Pedra - W",
+    "permission": "head.pedraw",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/67e165c3edc5541d4654c4728871e6908f613fc0ec46e823c96eac82ac62e62"
+  },
+  {
+    "name": "Pedra - X",
+    "permission": "head.pedrax",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/1919d1594bf809db7b44b3782bf90a69f449a87ce5d18cb40eb653fdec2722"
+  },
+  {
+    "name": "Pedra - Y",
+    "permission": "head.pedray",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/e35424bb86305d7747604b13e924d74f1efe38906e4e458dd18dcc67b6ca48"
+  },
+  {
+    "name": "Pedra - Z",
+    "permission": "head.pedraz",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/4e91200df1cae51acc071f85c7f7f5b8449d39bb32f363b0aa51dbc85d133e"
+  },
+  {
+    "name": "Pedra - 1",
+    "permission": "head.pedra1",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/31a9463fd3c433d5e1d9fec6d5d4b09a83a970b0b74dd546ce67a73348caab"
+  },
+  {
+    "name": "Pedra - 2",
+    "permission": "head.pedra2",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/acb419d984d8796373c9646233c7a02664bd2ce3a1d3476dd9b1c5463b14ebe"
+  },
+  {
+    "name": "Pedra - 3",
+    "permission": "head.pedra3",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/f8ebab57b7614bb22a117be43e848bcd14daecb50e8f5d0926e4864dff470"
+  },
+  {
+    "name": "Pedra - 4",
+    "permission": "head.pedra4",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/62bfcfb489da867dce96e3c3c17a3db7c79cae8ac1f9a5a8c8ac95e4ba3"
+  },
+  {
+    "name": "Pedra - 5",
+    "permission": "head.pedra5",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/ef4ecf110b0acee4af1da343fb136f1f2c216857dfda6961defdbee7b9528"
+  },
+  {
+    "name": "Pedra - 6",
+    "permission": "head.pedra6",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/f331a6a6fcd6995b62088d353bfb68d9b89ae258325caf3f2886464f54a7329"
+  },
+  {
+    "name": "Pedra - 7",
+    "permission": "head.pedra7",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d4ba6ac07d422377a855793f36dea2ed240223f52fd1648181612ecd1a0cfd5"
+  },
+  {
+    "name": "Pedra - 8",
+    "permission": "head.pedra8",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/c61a8a641437be9aea207253dd3f25440d954ea2b5866c552f386b29ac4d049"
+  },
+  {
+    "name": "Pedra - 9",
+    "permission": "head.pedra9",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/a1928e1bfd86a9b79397c4cb4b65ef99af49b7d5f7957ad62c0c699a622cfbe"
+  },
+  {
+    "name": "Pedra - 0",
+    "permission": "head.pedra0",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/55a224807693978ed834355f9e5145f9c56ef68cf6f2c9e1734a46e246aae1"
+  },
+  {
+    "name": "Pedra - :",
+    "permission": "head.pedradoispontos",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/bd898c40e47c5d2d76924065360768065d624ee5b9ee0be9e12b98fb77c76"
+  },
+  {
+    "name": "Pedra - Ä",
+    "permission": "head.pedratremaa",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/4c9c2bbd7b7f7204dceb5729a6fba7fd45d6f193f3760ec59a6807533e63b"
+  },
+  {
+    "name": "Pedra - Ü",
+    "permission": "head.pedratremau",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/caec53e4a6d221afd7297b65e55be87913cf9cb7f4f4547f7186120701d8d"
+  },
+  {
+    "name": "Pedra - Ö",
+    "permission": "head.pedratremao",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/c83d42bcb9b8e66c16166ccf261e2f9f78c68ee7886da225e43895cdbcaf5f"
+  },
+  {
+    "name": "Colorido - A",
+    "permission": "head.coloridoa",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/9c60da2944a177dd08268fbec04e40812d1d929650be66529b1ee5e1e7eca"
+  },
+  {
+    "name": "Colorido - B",
+    "permission": "head.coloridob",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/8041f5e86983d36eaec4e167b2bbb5a3727607cde88f7555ca1b522a039bb"
+  },
+  {
+    "name": "Colorido - C",
+    "permission": "head.coloridoc",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d945996c8ae91e376196d4dc676fec31feac790a2f195b2981a703ca1d16cb6"
+  },
+  {
+    "name": "Colorido - D",
+    "permission": "head.coloridod",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/1641150f481e8492f7128c948996254d2d91fc90f5a8ff4d8ac5c39a6a88a"
+  },
+  {
+    "name": "Colorido - E",
+    "permission": "head.coloridoe",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/db251487ff8eef2ebc7a57dab6e3d9f1db7fc926ddc66fea14afe3dff15a45"
+  },
+  {
+    "name": "Colorido - F",
+    "permission": "head.coloridof",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/7e433656b443668ed03dac8c442722a2a41221be8bb48e23b35bd8c2e59f63"
+  },
+  {
+    "name": "Colorido - G",
+    "permission": "head.coloridog",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/995863b73637605feacbb173b77d5e155e65204c78d5c7911f738f28deb60"
+  },
+  {
+    "name": "Colorido - H",
+    "permission": "head.coloridoh",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/3c1d358d927074289cc26bff5b1240746f9f4f0cc46f942f5981c6595f72dd"
+  },
+  {
+    "name": "Colorido - I",
+    "permission": "head.coloridoi",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/8f2295865bda4e47979d36b8a887a75a13b034e6988f78670b64a1e6442c"
+  },
+  {
+    "name": "Colorido - J",
+    "permission": "head.coloridoj",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/e34462b55d7f5823680ad13f2adbd7d1ed46ba5101017ed4b37aeeeb775d"
+  },
+  {
+    "name": "Colorido - K",
+    "permission": "head.coloridok",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/773325a935c067b6ef227367f62ca4bf49f67adb9f6da32091e2d32c5dde328"
+  },
+  {
+    "name": "Colorido - L",
+    "permission": "head.coloridol",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/25a1e3328c571aa495d9c5f494815cca176c3acb184feb5a7b9c96ce8e52fce"
+  },
+  {
+    "name": "Colorido - M",
+    "permission": "head.coloridom",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d467bf6be95e5c8e9d01977a2f0c487ed5b0de5c87963a2eb15411c442fb2b"
+  },
+  {
+    "name": "Colorido - N",
+    "permission": "head.coloridon",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/823e434d6395fe7e63492431bdee5782bd5ee5bc8cab7559467bdd1f93b925a"
+  },
+  {
+    "name": "Colorido - O",
+    "permission": "head.coloridoo",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/88445466bdc5ad5bcea82239c4e1b510f6ea5262d82d8a96d7291c342fb89"
+  },
+  {
+    "name": "Colorido - P",
+    "permission": "head.coloridop",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/f9de601dee3ffeca4d54595f844201d0ed2091acec4548c696bb16a8a158f6"
+  },
+  {
+    "name": "Colorido - Q",
+    "permission": "head.coloridoq",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/66ca769bde25d4cc41e19e42adc35ab4c1557b76af232649acc9967ff198f13"
+  },
+  {
+    "name": "Colorido - R",
+    "permission": "head.coloridor",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/67a188805162ca5dd4f4649c661d3f6d23c42662aef01645b1a97f78b3f13219"
+  },
+  {
+    "name": "Colorido - S",
+    "permission": "head.coloridos",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/60d09dfd9f5de6243233e0e3325b6c3479335e7ccf13f2448d4e1f7fc4a0df"
+  },
+  {
+    "name": "Colorido - T",
+    "permission": "head.coloridot",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/64c75619b91d241f678350ad9237c134c5e08d87d6860741ede306a4ef91"
+  },
+  {
+    "name": "Colorido - U",
+    "permission": "head.coloridou",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/e9f6d2c6d5285f882ae55d1e91b8f9efdfc9b377208bf4c83f88dd156415e"
+  },
+  {
+    "name": "Colorido - V",
+    "permission": "head.coloridov",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/dce27a153635f835237d85c6bf74f5b1f2e638c48fee8c83038d0558d41da7"
+  },
+  {
+    "name": "Colorido - W",
+    "permission": "head.coloridow",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/aedcf4ffcb53b56d42baac9d0dfb118e343462327442dd9b29d49f50a7d38b"
+  },
+  {
+    "name": "Colorido - X",
+    "permission": "head.coloridox",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/83618ff1217640bec5b525fa2a8e671c75d2a7d7cb2ddc31d79d9d895eab1"
+  },
+  {
+    "name": "Colorido - Y",
+    "permission": "head.coloridoy",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/d9c1d29a38bcf113b7e8c34e148a79f9fe41edf41aa8b1de873bb1d433b3861"
+  },
+  {
+    "name": "Colorido - Z",
+    "permission": "head.coloridoz",
+    "category": "ALPHABET",
+    "texture": "http://textures.minecraft.net/texture/b9295734195d2c7fa389b98757e9686ce6437c16c58bdf2b4cd538389b5912"
+  }
+]
