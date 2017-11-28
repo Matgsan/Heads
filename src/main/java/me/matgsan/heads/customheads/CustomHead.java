@@ -16,8 +16,6 @@ public class CustomHead extends Head {
     private final String name;
     private final String permission;
     private final CustomHeadCategory category;
-    private transient GameProfile profile;
-    private transient ItemStack headItem;
 
     public CustomHead(String name, CustomHeadCategory category, String texture, String permission) {
         super(texture);

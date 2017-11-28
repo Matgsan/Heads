@@ -49,7 +49,7 @@ public class CustomHeadManager {
         new InventoryUtil(p, inventory).openInventory();
     }
 
-    public static void onCustomHeadMenuClick(InventoryClickEvent event) {
+    public static void onMenuClick(InventoryClickEvent event) {
         final ItemStack item = event.getCurrentItem();
         final Player p = (Player) event.getWhoClicked();
         if (item.hasItemMeta() && item.getItemMeta().hasDisplayName()) {

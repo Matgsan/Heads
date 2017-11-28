@@ -99,7 +99,7 @@ public class AnimatedHeadManager {
         new InventoryUtil(p, inventory).openInventory();
     }
 
-    public static void onAnimationChoose(InventoryClickEvent event) {
+    public static void onAnimationClick(InventoryClickEvent event) {
         final ItemStack item = event.getCurrentItem();
         final Player p = (Player) event.getWhoClicked();
         if (item.hasItemMeta() && item.getItemMeta().hasDisplayName()) {

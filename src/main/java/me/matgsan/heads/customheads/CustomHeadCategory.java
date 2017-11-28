@@ -124,7 +124,7 @@ public enum CustomHeadCategory {
         new InventoryUtil(p, inventory).openInventory();
     }
 
-    public static void onCustomHeadCategoryClick(InventoryClickEvent event) {
+    public static void onHeadClick(InventoryClickEvent event) {
         final ItemStack item = event.getCurrentItem();
         final Player p = (Player) event.getWhoClicked();
         if (item.hasItemMeta() && item.getItemMeta().hasDisplayName()) {

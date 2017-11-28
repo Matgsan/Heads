@@ -43,13 +43,13 @@ public class Listeners implements Listener {
             event.setCancelled(true);
             if (title.startsWith("cabeças")) {
                 if (title.startsWith("cabeças - menu")) {
-                    CustomHeadManager.onCustomHeadMenuClick(event);
+                    CustomHeadManager.onMenuClick(event);
                 } else {
 
-                    CustomHeadCategory.onCustomHeadCategoryClick(event);
+                    CustomHeadCategory.onHeadClick(event);
                 }
             } else {
-                AnimatedHeadManager.onAnimationChoose(event);
+                AnimatedHeadManager.onAnimationClick(event);
             }
         }
     }
