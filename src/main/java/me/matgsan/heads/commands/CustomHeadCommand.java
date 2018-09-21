@@ -1,4 +1,4 @@
-package me.matgsan.heads.comandos;
+package me.matgsan.heads.commands;
 
 import me.matgsan.heads.customheads.CustomHeadManager;
 import org.bukkit.command.Command;
